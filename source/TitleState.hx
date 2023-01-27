@@ -2,6 +2,7 @@ package;
 
 #if desktop
 import sys.thread.Thread;
+import Discord.DiscordClient;
 #end
 import flixel.FlxG;
 import flixel.FlxSprite;

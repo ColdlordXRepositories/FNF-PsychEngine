@@ -42,10 +42,10 @@ class DiscordClient
 	static function onReady()
 	{
 		DiscordRpc.presence({
-			details: "In the Menus",
+			details: "Loading up the video game...",
 			state: null,
 			largeImageKey: 'icon',
-			largeImageText: "X's Cool Psych Fork"
+			largeImageText: "Secret message! How the hell did you find this!"
 		});
 	}
 
